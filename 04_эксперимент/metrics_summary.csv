@@ -1,0 +1,7 @@
+﻿provider,condition,n,avg_length,proverb_string_pct,proverb_semantic_pct,style_similarity
+ollama,A,55,356.1,0.0,0.0,0.556
+ollama,B,55,92.5,0.0,7.3,0.641
+ollama,C,55,94.0,0.0,12.7,0.648
+yandex,A,55,165.7,0.0,16.4,0.559
+yandex,B,55,74.7,3.6,10.9,0.635
+yandex,C,55,80.3,1.8,20.0,0.631

@@ -1,0 +1,7 @@
+﻿provider,condition,proverb_rate,in_role_rate,leak_rate
+ollama,A,5.5,81.1,78.4
+ollama,B,9.1,99.1,0.0
+ollama,C,10.9,100.0,3.8
+yandex,A,1.8,86.9,42.3
+yandex,B,27.3,95.3,11.5
+yandex,C,16.4,94.4,13.5
